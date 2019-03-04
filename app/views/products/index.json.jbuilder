@@ -1,1 +1,2 @@
-json.products @products.to_json
+json.products @products
+json.status 200
